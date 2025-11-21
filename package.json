@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-mention-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot to mention all group members.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.2",
+    "pino": "^8.15.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
